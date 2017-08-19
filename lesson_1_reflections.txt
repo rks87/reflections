@@ -1,0 +1,7 @@
+Using diff showed clearly what had been added and taken away at previous iterations of the file. The colour coding and symbols (plus, minus) were especially helpful.
+Using history, one doesn’t need to manually sort though various iterations of a file to figure out which version was created when, or what changes were made between versions. This saves a lot of time in the debugging process.
+Pros of manual-only commits is that the user can decide what is a meaningful change and when to make that change. Downside as opposed to an automatic system is that it relies on the user to be diligent in backing up their work.
+Fitness of purpose. In programming one can have multiple files that all work together as part of a single program, therefore they all need to be kept up to date and compatible with each other. A doc on the other hand is a single, discrete piece of work where it makes sense to treat files discretely and separately.
+Using log and diff in unison allows one to track changes in a file (or files) over time.
+Version control gives confidence that no matter how badly one breaks something, they can always recover their work. This gives the programmer courage to make big, wholesale changes just to see if they work. If it fails, then nothing has really been lost.
+I really just indented to use Git because it was needed for future Udacity projects. But now I may actually start using it in my own work with Python, R etc
