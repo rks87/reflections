@@ -1,0 +1,2 @@
+Initialising a repository brings the given directory into the git system by setting the “start point” to which all future changes refer. It is also the point where the first metadata files are created.
+The staging area sits between the working directory and the repository. It allows the user to decide exactly which changes should be committed rather than having to update everything at each stage.
