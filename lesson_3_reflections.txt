@@ -1,0 +1,1 @@
+A remote repository makes the most sense in situations where one is required to work colaboratively or wishes to share work with others. It would also be useful as a form of external backup in case of local machine failure.
