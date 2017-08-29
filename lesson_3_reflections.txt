@@ -1,1 +1,2 @@
-A remote repository makes the most sense in situations where one is required to work colaboratively or wishes to share work with others. It would also be useful as a form of external backup in case of local machine failure.
+A remote repository makes the most sense in situations where one is required to work collaboratively or wishes to share work with others. It would also be useful as a form of external backup in case of local machine failure.
+The user may not want changes always pulled manually. There could be a reason why the update was made to GitHub first rather than the local machine. Could be for testing on a different system etc.
