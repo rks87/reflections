@@ -1,2 +1,5 @@
 A remote repository makes the most sense in situations where one is required to work collaboratively or wishes to share work with others. It would also be useful as a form of external backup in case of local machine failure.
 The user may not want changes always pulled manually. There could be a reason why the update was made to GitHub first rather than the local machine. Could be for testing on a different system etc.
+Git fork takes an existing repository and forks it in a new direction, typically for a new user. User does not need edit permission to fork a publicly available repository, so enables working on another person’s project without affecting their work.
+Clone is similar to fork but can be done on a local machine without access to Github.
+Branches are typically used when working on one’s own project. The user wishes to take the project in a new direction without affecting the master branch. Requires edit access in order to work.
